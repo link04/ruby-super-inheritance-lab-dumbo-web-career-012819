@@ -7,7 +7,7 @@ def ChattyStudent
   def raise_hand
     super
     10.times do 
-      self.super
+      self."Pick me!"
     end
   end
  
